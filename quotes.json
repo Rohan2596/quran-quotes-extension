@@ -1,0 +1,122 @@
+[
+  { "text": "In the beginning God created the heaven and the earth.", "ref": "Genesis 1:1 (KJV)" },
+  { "text": "The LORD bless thee, and keep thee.", "ref": "Numbers 6:24 (KJV)" },
+  { "text": "As for me and my house, we will serve the LORD.", "ref": "Joshua 24:15 (KJV)" },
+  { "text": "Be strong and of a good courage.", "ref": "Joshua 1:9 (KJV)" },
+  { "text": "The LORD is my rock, and my fortress, and my deliverer.", "ref": "Psalm 18:2 (KJV)" },
+  { "text": "Create in me a clean heart, O God.", "ref": "Psalm 51:10 (KJV)" },
+  { "text": "Thy word is a lamp unto my feet, and a light unto my path.", "ref": "Psalm 119:105 (KJV)" },
+  { "text": "Taste and see that the LORD is good.", "ref": "Psalm 34:8 (KJV)" },
+  { "text": "The fear of the LORD is the beginning of wisdom.", "ref": "Proverbs 9:10 (KJV)" },
+  { "text": "There is a time for every purpose under the heaven.", "ref": "Ecclesiastes 3:1 (KJV)" },
+
+  { "text": "They that wait upon the LORD shall renew their strength.", "ref": "Isaiah 40:31 (KJV)" },
+  { "text": "Fear thou not; for I am with thee.", "ref": "Isaiah 41:10 (KJV)" },
+  { "text": "The LORD thy God in the midst of thee is mighty.", "ref": "Zephaniah 3:17 (KJV)" },
+  { "text": "But thou, Bethlehem Ephratah, though thou be little.", "ref": "Micah 5:2 (KJV)" },
+  { "text": "The LORD is good, a strong hold in the day of trouble.", "ref": "Nahum 1:7 (KJV)" },
+
+  { "text": "Blessed are the meek: for they shall inherit the earth.", "ref": "Matthew 5:5 (KJV)" },
+  { "text": "Let your light so shine before men.", "ref": "Matthew 5:16 (KJV)" },
+  { "text": "Come unto me, all ye that labour and are heavy laden.", "ref": "Matthew 11:28 (KJV)" },
+  { "text": "With God all things are possible.", "ref": "Matthew 19:26 (KJV)" },
+  { "text": "For where your treasure is, there will your heart be also.", "ref": "Matthew 6:21 (KJV)" },
+
+  { "text": "For the Son of man is come to seek and to save that which was lost.", "ref": "Luke 19:10 (KJV)" },
+  { "text": "Glory to God in the highest.", "ref": "Luke 2:14 (KJV)" },
+  { "text": "For nothing shall be impossible with God.", "ref": "Luke 1:37 (KJV)" },
+
+  { "text": "I am the way, the truth, and the life.", "ref": "John 14:6 (KJV)" },
+  { "text": "The truth shall make you free.", "ref": "John 8:32 (KJV)" },
+  { "text": "Peace I leave with you, my peace I give unto you.", "ref": "John 14:27 (KJV)" },
+  { "text": "Abide in me, and I in you.", "ref": "John 15:4 (KJV)" },
+  { "text": "Greater love hath no man than this.", "ref": "John 15:13 (KJV)" },
+
+  { "text": "The just shall live by faith.", "ref": "Romans 1:17 (KJV)" },
+  { "text": "All things work together for good to them that love God.", "ref": "Romans 8:28 (KJV)" },
+  { "text": "Be not conformed to this world.", "ref": "Romans 12:2 (KJV)" },
+  { "text": "For the wages of sin is death; but the gift of God is eternal life.", "ref": "Romans 6:23 (KJV)" },
+
+  { "text": "God is faithful, by whom ye were called.", "ref": "1 Corinthians 1:9 (KJV)" },
+  { "text": "Whether therefore ye eat, or drink, do all to the glory of God.", "ref": "1 Corinthians 10:31 (KJV)" },
+  { "text": "Thanks be unto God, which giveth us the victory.", "ref": "1 Corinthians 15:57 (KJV)" },
+
+  { "text": "We walk by faith, not by sight.", "ref": "2 Corinthians 5:7 (KJV)" },
+  { "text": "My grace is sufficient for thee.", "ref": "2 Corinthians 12:9 (KJV)" },
+
+  { "text": "For by grace are ye saved through faith.", "ref": "Ephesians 2:8 (KJV)" },
+  { "text": "Put on the whole armour of God.", "ref": "Ephesians 6:11 (KJV)" },
+
+  { "text": "He which hath begun a good work in you will perform it.", "ref": "Philippians 1:6 (KJV)" },
+  { "text": "Rejoice in the Lord alway.", "ref": "Philippians 4:4 (KJV)" },
+  { "text": "Let your moderation be known unto all men.", "ref": "Philippians 4:5 (KJV)" },
+
+  { "text": "Set your affection on things above.", "ref": "Colossians 3:2 (KJV)" },
+
+  { "text": "Faithful is he that calleth you.", "ref": "1 Thessalonians 5:24 (KJV)" },
+
+  { "text": "God hath not given us the spirit of fear.", "ref": "2 Timothy 1:7 (KJV)" },
+  { "text": "All scripture is given by inspiration of God.", "ref": "2 Timothy 3:16 (KJV)" },
+
+  { "text": "The LORD is my helper, and I will not fear.", "ref": "Hebrews 13:6 (KJV)" },
+  { "text": "Jesus Christ the same yesterday, and to day, and for ever.", "ref": "Hebrews 13:8 (KJV)" },
+
+  { "text": "If any of you lack wisdom, let him ask of God.", "ref": "James 1:5 (KJV)" },
+  { "text": "Be ye doers of the word, and not hearers only.", "ref": "James 1:22 (KJV)" },
+
+  { "text": "The eyes of the LORD are upon the righteous.", "ref": "1 Peter 3:12 (KJV)" },
+  { "text": "Hope to the end for the grace that is to be brought unto you.", "ref": "1 Peter 1:13 (KJV)" },
+
+  { "text": "God is love.", "ref": "1 John 4:8 (KJV)" },
+  { "text": "Perfect love casteth out fear.", "ref": "1 John 4:18 (KJV)" },
+
+  { "text": "Behold, I stand at the door, and knock.", "ref": "Revelation 3:20 (KJV)" },
+  { "text": "I am Alpha and Omega, the beginning and the end.", "ref": "Revelation 22:13 (KJV)" },
+  { "text": "The LORD is gracious, and full of compassion.", "ref": "Psalm 145:8 (KJV)" },
+  { "text": "Commit thy way unto the LORD; trust also in him.", "ref": "Psalm 37:5 (KJV)" },
+  { "text": "Blessed is the man that trusteth in the LORD.", "ref": "Jeremiah 17:7 (KJV)" },
+  { "text": "The joy of the LORD is your strength.", "ref": "Nehemiah 8:10 (KJV)" },
+  { "text": "Serve the LORD with gladness.", "ref": "Psalm 100:2 (KJV)" },
+  { "text": "A soft answer turneth away wrath.", "ref": "Proverbs 15:1 (KJV)" },
+  { "text": "Better is a little with righteousness than great revenues without right.", "ref": "Proverbs 16:8 (KJV)" },
+  { "text": "The LORD shall fight for you, and ye shall hold your peace.", "ref": "Exodus 14:14 (KJV)" },
+  { "text": "Man shall not live by bread alone.", "ref": "Deuteronomy 8:3 (KJV)" },
+  { "text": "The LORD thy God is with thee whithersoever thou goest.", "ref": "Joshua 1:9 (KJV)" },
+
+  { "text": "Blessed are the peacemakers.", "ref": "Matthew 5:9 (KJV)" },
+  { "text": "Ask, and it shall be given you.", "ref": "Matthew 7:7 (KJV)" },
+  { "text": "Watch and pray.", "ref": "Matthew 26:41 (KJV)" },
+  { "text": "Give, and it shall be given unto you.", "ref": "Luke 6:38 (KJV)" },
+  { "text": "My sheep hear my voice.", "ref": "John 10:27 (KJV)" },
+
+  { "text": "The love of God is shed abroad in our hearts.", "ref": "Romans 5:5 (KJV)" },
+  { "text": "Let all things be done with charity.", "ref": "1 Corinthians 16:14 (KJV)" },
+  { "text": "Bear ye one another's burdens.", "ref": "Galatians 6:2 (KJV)" },
+  { "text": "Pray without ceasing.", "ref": "1 Thessalonians 5:17 (KJV)" },
+  { "text": "Surely I come quickly.", "ref": "Revelation 22:20 (KJV)" },
+
+  { "text": "The LORD is nigh unto all them that call upon him.", "ref": "Psalm 145:18 (KJV)" },
+  { "text": "Delight thyself also in the LORD.", "ref": "Psalm 37:4 (KJV)" },
+  { "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee.", "ref": "Isaiah 26:3 (KJV)" },
+  { "text": "Call unto me, and I will answer thee.", "ref": "Jeremiah 33:3 (KJV)" },
+  { "text": "It is of the LORD's mercies that we are not consumed.", "ref": "Lamentations 3:22 (KJV)" },
+  { "text": "The LORD is good unto them that wait for him.", "ref": "Lamentations 3:25 (KJV)" },
+  { "text": "Walk humbly with thy God.", "ref": "Micah 6:8 (KJV)" },
+  { "text": "The LORD will give grace and glory.", "ref": "Psalm 84:11 (KJV)" },
+  { "text": "Better is one day in thy courts than a thousand.", "ref": "Psalm 84:10 (KJV)" },
+  { "text": "He healeth the broken in heart.", "ref": "Psalm 147:3 (KJV)" },
+
+  { "text": "Blessed are the pure in heart.", "ref": "Matthew 5:8 (KJV)" },
+  { "text": "Seek ye first the kingdom of God.", "ref": "Matthew 6:33 (KJV)" },
+  { "text": "Thy faith hath made thee whole.", "ref": "Luke 8:48 (KJV)" },
+  { "text": "Be of good cheer; I have overcome the world.", "ref": "John 16:33 (KJV)" },
+  { "text": "If ye love me, keep my commandments.", "ref": "John 14:15 (KJV)" },
+
+  { "text": "The God of hope fill you with all joy and peace.", "ref": "Romans 15:13 (KJV)" },
+  { "text": "Let us not be weary in well doing.", "ref": "Galatians 6:9 (KJV)" },
+  { "text": "Walk in the Spirit.", "ref": "Galatians 5:16 (KJV)" },
+  { "text": "Be ye kind one to another.", "ref": "Ephesians 4:32 (KJV)" },
+  { "text": "Looking unto Jesus the author and finisher of our faith.", "ref": "Hebrews 12:2 (KJV)" }
+
+]
+

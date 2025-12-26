@@ -1,0 +1,140 @@
+:root {
+  --bg: #faf7f2;
+  --card: #ffffff;
+  --text: #2e2a26;
+  --accent: #d4a437;
+  --border: #e6dccb;
+  --shadow: rgba(0, 0, 0, 0.08);
+}
+
+body.dark {
+  --bg: #1e1b17;
+  --card: #2a2621;
+  --text: #f3efe8;
+  --accent: #e0b84c;
+  --border: #3a342b;
+  --shadow: rgba(0, 0, 0, 0.4);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Georgia", serif;
+}
+
+body {
+  margin: 0;
+  width: 320px;
+  height: 420px;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.container {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 8px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.icon {
+  font-size: 22px;
+}
+
+header h1 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.header-actions button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  margin-left: 6px;
+}
+
+/* Quote Card */
+.quote-card {
+  flex: 1;
+  margin: 20px 0;
+  background: var(--card);
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: 0 8px 20px var(--shadow);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+}
+
+.quote-card::before {
+  content: "✝️";
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  font-size: 38px;
+  opacity: 0.08;
+}
+#quoteText {
+  font-size: 16px;
+  line-height: 1.7;
+  font-style: normal;
+  margin-bottom: 14px;
+  transition: opacity 0.2s ease;
+}
+
+
+#quoteRef {
+  font-size: 13px;
+  color: var(--accent);
+}
+
+/* Next Button */
+.next-btn {
+  background: var(--accent);
+  border: none;
+  border-radius: 999px;
+  padding: 12px;
+  font-size: 14px;
+  cursor: pointer;
+  color: #000;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.next-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.fav-toggle {
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  background: #f3f3f3;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+body.dark .fav-toggle {
+  background: #333;
+  color: #fff;
+}
+

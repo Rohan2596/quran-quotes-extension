@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bible Quotes</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="title">
+        <span class="icon">✝️</span>
+        <h1>Holy Bible</h1>
+      </div>
+      <div class="header-actions">
+        <button id="favBtn" title="Favorite">🤍</button>
+        <button id="themeToggle" title="Toggle theme">🌙</button>
+      </div>
+    </header>
+
+    <div class="quote-card">
+      <p id="quoteText">Loading verse...</p>
+      <span id="quoteRef"></span>
+    </div>
+
+    <!-- Controls -->
+    <button id="showFavsBtn" class="fav-toggle">
+      ⭐ View Favorites
+    </button>
+
+    <button id="nextBtn" class="next-btn">
+      Next Verse ▶
+    </button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
