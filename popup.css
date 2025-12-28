@@ -2,7 +2,7 @@
   --bg: #faf7f2;
   --card: #ffffff;
   --text: #2e2a26;
-  --accent: #d4a437;
+  --accent: #c9a227;
   --border: #e6dccb;
   --shadow: rgba(0, 0, 0, 0.08);
 }
@@ -68,7 +68,7 @@ header h1 {
   margin-left: 6px;
 }
 
-/* Quote Card */
+/* Ayah Card */
 .quote-card {
   flex: 1;
   margin: 20px 0;
@@ -83,29 +83,29 @@ header h1 {
   position: relative;
 }
 
+/* Islamic watermark */
 .quote-card::before {
-  content: "✝️";
+  content: "☪️";
   position: absolute;
   top: 12px;
   right: 16px;
-  font-size: 38px;
+  font-size: 36px;
   opacity: 0.08;
 }
+
 #quoteText {
   font-size: 16px;
   line-height: 1.7;
-  font-style: normal;
   margin-bottom: 14px;
   transition: opacity 0.2s ease;
 }
-
 
 #quoteRef {
   font-size: 13px;
   color: var(--accent);
 }
 
-/* Next Button */
+/* Buttons */
 .next-btn {
   background: var(--accent);
   border: none;
@@ -137,4 +137,3 @@ body.dark .fav-toggle {
   background: #333;
   color: #fff;
 }
-
