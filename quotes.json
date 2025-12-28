@@ -1,122 +1,203 @@
 [
-  { "text": "In the beginning God created the heaven and the earth.", "ref": "Genesis 1:1 (KJV)" },
-  { "text": "The LORD bless thee, and keep thee.", "ref": "Numbers 6:24 (KJV)" },
-  { "text": "As for me and my house, we will serve the LORD.", "ref": "Joshua 24:15 (KJV)" },
-  { "text": "Be strong and of a good courage.", "ref": "Joshua 1:9 (KJV)" },
-  { "text": "The LORD is my rock, and my fortress, and my deliverer.", "ref": "Psalm 18:2 (KJV)" },
-  { "text": "Create in me a clean heart, O God.", "ref": "Psalm 51:10 (KJV)" },
-  { "text": "Thy word is a lamp unto my feet, and a light unto my path.", "ref": "Psalm 119:105 (KJV)" },
-  { "text": "Taste and see that the LORD is good.", "ref": "Psalm 34:8 (KJV)" },
-  { "text": "The fear of the LORD is the beginning of wisdom.", "ref": "Proverbs 9:10 (KJV)" },
-  { "text": "There is a time for every purpose under the heaven.", "ref": "Ecclesiastes 3:1 (KJV)" },
+  { "text": "In the name of Allah, the Beneficent, the Merciful.", "ref": "Qur’an 1:1" },
+  { "text": "Praise be to Allah, Lord of the Worlds.", "ref": "Qur’an 1:2" },
+  { "text": "The Beneficent, the Merciful.", "ref": "Qur’an 1:3" },
+  { "text": "Master of the Day of Judgment.", "ref": "Qur’an 1:4" },
+  { "text": "Thee (alone) we worship; Thee (alone) we ask for help.", "ref": "Qur’an 1:5" },
 
-  { "text": "They that wait upon the LORD shall renew their strength.", "ref": "Isaiah 40:31 (KJV)" },
-  { "text": "Fear thou not; for I am with thee.", "ref": "Isaiah 41:10 (KJV)" },
-  { "text": "The LORD thy God in the midst of thee is mighty.", "ref": "Zephaniah 3:17 (KJV)" },
-  { "text": "But thou, Bethlehem Ephratah, though thou be little.", "ref": "Micah 5:2 (KJV)" },
-  { "text": "The LORD is good, a strong hold in the day of trouble.", "ref": "Nahum 1:7 (KJV)" },
+  { "text": "This is the Scripture whereof there is no doubt, a guidance unto those who ward off (evil).", "ref": "Qur’an 2:2" },
+  { "text": "Allah! There is no god save Him, the Living, the Eternal.", "ref": "Qur’an 2:255" },
+  { "text": "So remember Me, I will remember you.", "ref": "Qur’an 2:152" },
+  { "text": "And seek help in patience and prayer.", "ref": "Qur’an 2:45" },
+  { "text": "Allah burdeneth not a soul beyond its scope.", "ref": "Qur’an 2:286" },
 
-  { "text": "Blessed are the meek: for they shall inherit the earth.", "ref": "Matthew 5:5 (KJV)" },
-  { "text": "Let your light so shine before men.", "ref": "Matthew 5:16 (KJV)" },
-  { "text": "Come unto me, all ye that labour and are heavy laden.", "ref": "Matthew 11:28 (KJV)" },
-  { "text": "With God all things are possible.", "ref": "Matthew 19:26 (KJV)" },
-  { "text": "For where your treasure is, there will your heart be also.", "ref": "Matthew 6:21 (KJV)" },
+  { "text": "Say: He is Allah, the One!", "ref": "Qur’an 112:1" },
+  { "text": "Allah, the eternally Besought of all!", "ref": "Qur’an 112:2" },
+  { "text": "He begetteth not nor was begotten.", "ref": "Qur’an 112:3" },
+  { "text": "And there is none comparable unto Him.", "ref": "Qur’an 112:4" },
 
-  { "text": "For the Son of man is come to seek and to save that which was lost.", "ref": "Luke 19:10 (KJV)" },
-  { "text": "Glory to God in the highest.", "ref": "Luke 2:14 (KJV)" },
-  { "text": "For nothing shall be impossible with God.", "ref": "Luke 1:37 (KJV)" },
+  { "text": "Allah is the Light of the heavens and the earth.", "ref": "Qur’an 24:35" },
+  { "text": "And He is with you wheresoever ye may be.", "ref": "Qur’an 57:4" },
+  { "text": "Verily in the remembrance of Allah do hearts find rest.", "ref": "Qur’an 13:28" },
+  { "text": "The mercy of Allah is near unto the good.", "ref": "Qur’an 7:56" },
+  { "text": "My mercy embraceth all things.", "ref": "Qur’an 7:156" },
 
-  { "text": "I am the way, the truth, and the life.", "ref": "John 14:6 (KJV)" },
-  { "text": "The truth shall make you free.", "ref": "John 8:32 (KJV)" },
-  { "text": "Peace I leave with you, my peace I give unto you.", "ref": "John 14:27 (KJV)" },
-  { "text": "Abide in me, and I in you.", "ref": "John 15:4 (KJV)" },
-  { "text": "Greater love hath no man than this.", "ref": "John 15:13 (KJV)" },
+  { "text": "Lo! Allah is with those who keep their duty unto Him and those who do good.", "ref": "Qur’an 16:128" },
+  { "text": "And put thy trust in Allah, for Allah is sufficient as Trustee.", "ref": "Qur’an 33:3" },
+  { "text": "And Allah loveth those who are steadfast.", "ref": "Qur’an 3:146" },
+  { "text": "And whosoever putteth his trust in Allah, He will suffice him.", "ref": "Qur’an 65:3" },
 
-  { "text": "The just shall live by faith.", "ref": "Romans 1:17 (KJV)" },
-  { "text": "All things work together for good to them that love God.", "ref": "Romans 8:28 (KJV)" },
-  { "text": "Be not conformed to this world.", "ref": "Romans 12:2 (KJV)" },
-  { "text": "For the wages of sin is death; but the gift of God is eternal life.", "ref": "Romans 6:23 (KJV)" },
+  { "text": "He it is Who created death and life.", "ref": "Qur’an 67:2" },
+  { "text": "Blessed is He in Whose hand is the Sovereignty.", "ref": "Qur’an 67:1" },
+  { "text": "And He is Able to do all things.", "ref": "Qur’an 67:1" },
 
-  { "text": "God is faithful, by whom ye were called.", "ref": "1 Corinthians 1:9 (KJV)" },
-  { "text": "Whether therefore ye eat, or drink, do all to the glory of God.", "ref": "1 Corinthians 10:31 (KJV)" },
-  { "text": "Thanks be unto God, which giveth us the victory.", "ref": "1 Corinthians 15:57 (KJV)" },
+  { "text": "Have We not made the earth an expanse?", "ref": "Qur’an 78:6" },
+  { "text": "And the mountains as pegs?", "ref": "Qur’an 78:7" },
+  { "text": "And We have created you in pairs.", "ref": "Qur’an 78:8" },
 
-  { "text": "We walk by faith, not by sight.", "ref": "2 Corinthians 5:7 (KJV)" },
-  { "text": "My grace is sufficient for thee.", "ref": "2 Corinthians 12:9 (KJV)" },
+  { "text": "So which of the favors of your Lord will ye deny?", "ref": "Qur’an 55:13" },
+  { "text": "All that is therein passeth away.", "ref": "Qur’an 55:26" },
+  { "text": "There remaineth but the Countenance of thy Lord.", "ref": "Qur’an 55:27" },
 
-  { "text": "For by grace are ye saved through faith.", "ref": "Ephesians 2:8 (KJV)" },
-  { "text": "Put on the whole armour of God.", "ref": "Ephesians 6:11 (KJV)" },
+  { "text": "Read: In the name of thy Lord Who createth.", "ref": "Qur’an 96:1" },
+  { "text": "He taught man that which he knew not.", "ref": "Qur’an 96:5" },
 
-  { "text": "He which hath begun a good work in you will perform it.", "ref": "Philippians 1:6 (KJV)" },
-  { "text": "Rejoice in the Lord alway.", "ref": "Philippians 4:4 (KJV)" },
-  { "text": "Let your moderation be known unto all men.", "ref": "Philippians 4:5 (KJV)" },
+  { "text": "And be kind as Allah hath been kind to thee.", "ref": "Qur’an 28:77" },
+  { "text": "The life of this world is but comfort of illusion.", "ref": "Qur’an 3:185" },
+  { "text": "And your Lord is Forgiving, Full of Mercy.", "ref": "Qur’an 18:58" },
 
-  { "text": "Set your affection on things above.", "ref": "Colossians 3:2 (KJV)" },
+  { "text": "Say: My Lord increaseth the provision for whom He will.", "ref": "Qur’an 34:36" },
+  { "text": "Allah is Gentle with His slaves.", "ref": "Qur’an 42:19" },
 
-  { "text": "Faithful is he that calleth you.", "ref": "1 Thessalonians 5:24 (KJV)" },
+  { "text": "And the Hereafter is better and more lasting.", "ref": "Qur’an 87:17" },
+  { "text": "He knoweth that which is before them and that which is behind them.", "ref": "Qur’an 2:255" },
 
-  { "text": "God hath not given us the spirit of fear.", "ref": "2 Timothy 1:7 (KJV)" },
-  { "text": "All scripture is given by inspiration of God.", "ref": "2 Timothy 3:16 (KJV)" },
+  { "text": "Lo! With hardship goeth ease.", "ref": "Qur’an 94:5" },
+  { "text": "Verily, with hardship goeth ease.", "ref": "Qur’an 94:6" },
 
-  { "text": "The LORD is my helper, and I will not fear.", "ref": "Hebrews 13:6 (KJV)" },
-  { "text": "Jesus Christ the same yesterday, and to day, and for ever.", "ref": "Hebrews 13:8 (KJV)" },
+  { "text": "Serve Allah, and ascribe nothing as partner unto Him.", "ref": "Qur’an 4:36" },
+  { "text": "And walk not in the earth with pride.", "ref": "Qur’an 17:37" },
 
-  { "text": "If any of you lack wisdom, let him ask of God.", "ref": "James 1:5 (KJV)" },
-  { "text": "Be ye doers of the word, and not hearers only.", "ref": "James 1:22 (KJV)" },
+  { "text": "He is the Forgiving, the Loving.", "ref": "Qur’an 85:14" },
+  { "text": "Allah calleth to the abode of peace.", "ref": "Qur’an 10:25" },
 
-  { "text": "The eyes of the LORD are upon the righteous.", "ref": "1 Peter 3:12 (KJV)" },
-  { "text": "Hope to the end for the grace that is to be brought unto you.", "ref": "1 Peter 1:13 (KJV)" },
+  { "text": "And We made from water every living thing.", "ref": "Qur’an 21:30" },
+  { "text": "And He found thee wandering, and He guided thee.", "ref": "Qur’an 93:7" },
 
-  { "text": "God is love.", "ref": "1 John 4:8 (KJV)" },
-  { "text": "Perfect love casteth out fear.", "ref": "1 John 4:18 (KJV)" },
+  { "text": "So verily with the remembrance of Allah do hearts find rest.", "ref": "Qur’an 13:28" },
+  { "text": "The commandment of Allah is a decree determined.", "ref": "Qur’an 33:38" },
 
-  { "text": "Behold, I stand at the door, and knock.", "ref": "Revelation 3:20 (KJV)" },
-  { "text": "I am Alpha and Omega, the beginning and the end.", "ref": "Revelation 22:13 (KJV)" },
-  { "text": "The LORD is gracious, and full of compassion.", "ref": "Psalm 145:8 (KJV)" },
-  { "text": "Commit thy way unto the LORD; trust also in him.", "ref": "Psalm 37:5 (KJV)" },
-  { "text": "Blessed is the man that trusteth in the LORD.", "ref": "Jeremiah 17:7 (KJV)" },
-  { "text": "The joy of the LORD is your strength.", "ref": "Nehemiah 8:10 (KJV)" },
-  { "text": "Serve the LORD with gladness.", "ref": "Psalm 100:2 (KJV)" },
-  { "text": "A soft answer turneth away wrath.", "ref": "Proverbs 15:1 (KJV)" },
-  { "text": "Better is a little with righteousness than great revenues without right.", "ref": "Proverbs 16:8 (KJV)" },
-  { "text": "The LORD shall fight for you, and ye shall hold your peace.", "ref": "Exodus 14:14 (KJV)" },
-  { "text": "Man shall not live by bread alone.", "ref": "Deuteronomy 8:3 (KJV)" },
-  { "text": "The LORD thy God is with thee whithersoever thou goest.", "ref": "Joshua 1:9 (KJV)" },
+  { "text": "And Allah is Best of Providers.", "ref": "Qur’an 62:11" },
+  { "text": "Allah is the Hearer, the Knower.", "ref": "Qur’an 58:1" },
 
-  { "text": "Blessed are the peacemakers.", "ref": "Matthew 5:9 (KJV)" },
-  { "text": "Ask, and it shall be given you.", "ref": "Matthew 7:7 (KJV)" },
-  { "text": "Watch and pray.", "ref": "Matthew 26:41 (KJV)" },
-  { "text": "Give, and it shall be given unto you.", "ref": "Luke 6:38 (KJV)" },
-  { "text": "My sheep hear my voice.", "ref": "John 10:27 (KJV)" },
+  { "text": "And Allah is Rich beyond need of the worlds.", "ref": "Qur’an 3:97" },
+  { "text": "And Allah is Ever Knower of all things.", "ref": "Qur’an 33:40" },
+  
+  { "text": "Allah guideth whom He will unto a straight path.", "ref": "Qur’an 2:213" },
+  { "text": "And Allah is Forgiving, Merciful.", "ref": "Qur’an 2:173" },
+  { "text": "He giveth wisdom unto whom He will.", "ref": "Qur’an 2:269" },
+  { "text": "And Allah is Mighty, Wise.", "ref": "Qur’an 2:220" },
 
-  { "text": "The love of God is shed abroad in our hearts.", "ref": "Romans 5:5 (KJV)" },
-  { "text": "Let all things be done with charity.", "ref": "1 Corinthians 16:14 (KJV)" },
-  { "text": "Bear ye one another's burdens.", "ref": "Galatians 6:2 (KJV)" },
-  { "text": "Pray without ceasing.", "ref": "1 Thessalonians 5:17 (KJV)" },
-  { "text": "Surely I come quickly.", "ref": "Revelation 22:20 (KJV)" },
+  { "text": "Say: Nothing shall befall us save that which Allah hath decreed for us.", "ref": "Qur’an 9:51" },
+  { "text": "Allah hath power over all things.", "ref": "Qur’an 2:284" },
+  { "text": "Unto Allah belongeth the East and the West.", "ref": "Qur’an 2:115" },
 
-  { "text": "The LORD is nigh unto all them that call upon him.", "ref": "Psalm 145:18 (KJV)" },
-  { "text": "Delight thyself also in the LORD.", "ref": "Psalm 37:4 (KJV)" },
-  { "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee.", "ref": "Isaiah 26:3 (KJV)" },
-  { "text": "Call unto me, and I will answer thee.", "ref": "Jeremiah 33:3 (KJV)" },
-  { "text": "It is of the LORD's mercies that we are not consumed.", "ref": "Lamentations 3:22 (KJV)" },
-  { "text": "The LORD is good unto them that wait for him.", "ref": "Lamentations 3:25 (KJV)" },
-  { "text": "Walk humbly with thy God.", "ref": "Micah 6:8 (KJV)" },
-  { "text": "The LORD will give grace and glory.", "ref": "Psalm 84:11 (KJV)" },
-  { "text": "Better is one day in thy courts than a thousand.", "ref": "Psalm 84:10 (KJV)" },
-  { "text": "He healeth the broken in heart.", "ref": "Psalm 147:3 (KJV)" },
+  { "text": "And He it is Who sendeth down rain.", "ref": "Qur’an 6:99" },
+  { "text": "And He is the Subtle, the Aware.", "ref": "Qur’an 6:103" },
 
-  { "text": "Blessed are the pure in heart.", "ref": "Matthew 5:8 (KJV)" },
-  { "text": "Seek ye first the kingdom of God.", "ref": "Matthew 6:33 (KJV)" },
-  { "text": "Thy faith hath made thee whole.", "ref": "Luke 8:48 (KJV)" },
-  { "text": "Be of good cheer; I have overcome the world.", "ref": "John 16:33 (KJV)" },
-  { "text": "If ye love me, keep my commandments.", "ref": "John 14:15 (KJV)" },
+  { "text": "My prayer and my sacrifice and my living and my dying are for Allah.", "ref": "Qur’an 6:162" },
+  { "text": "There is no altering the words of Allah.", "ref": "Qur’an 6:34" },
 
-  { "text": "The God of hope fill you with all joy and peace.", "ref": "Romans 15:13 (KJV)" },
-  { "text": "Let us not be weary in well doing.", "ref": "Galatians 6:9 (KJV)" },
-  { "text": "Walk in the Spirit.", "ref": "Galatians 5:16 (KJV)" },
-  { "text": "Be ye kind one to another.", "ref": "Ephesians 4:32 (KJV)" },
-  { "text": "Looking unto Jesus the author and finisher of our faith.", "ref": "Hebrews 12:2 (KJV)" }
+  { "text": "Allah increaseth in guidance those who walk aright.", "ref": "Qur’an 19:76" },
+  { "text": "And thy Lord is best aware of those who go astray.", "ref": "Qur’an 6:117" },
+
+  { "text": "And We made them leaders who guide by Our command.", "ref": "Qur’an 21:73" },
+  { "text": "We sent thee not save as a mercy for the peoples.", "ref": "Qur’an 21:107" },
+
+  { "text": "Allah is He besides Whom there is no other god.", "ref": "Qur’an 59:22" },
+  { "text": "He is the Knower of the Invisible and the Visible.", "ref": "Qur’an 59:22" },
+  { "text": "He is Allah, the Creator, the Shaper out of naught.", "ref": "Qur’an 59:24" },
+
+  { "text": "Unto Him belong the Most Beautiful Names.", "ref": "Qur’an 59:24" },
+  { "text": "All that is in the heavens and the earth glorifieth Him.", "ref": "Qur’an 57:1" },
+
+  { "text": "He knoweth that which entereth the earth and that which goeth forth from it.", "ref": "Qur’an 57:4" },
+  { "text": "And He is with you wherever ye may be.", "ref": "Qur’an 57:4" },
+
+  { "text": "Believe in Allah and His messenger.", "ref": "Qur’an 57:7" },
+  { "text": "And Allah is Seer of what ye do.", "ref": "Qur’an 57:10" },
+
+  { "text": "O mankind! Serve your Lord.", "ref": "Qur’an 2:21" },
+  { "text": "And Allah is the Best of judges.", "ref": "Qur’an 7:87" },
+
+  { "text": "And the servants of the Beneficent are those who walk upon the earth modestly.", "ref": "Qur’an 25:63" },
+  { "text": "And they who spend the night before their Lord, prostrate and standing.", "ref": "Qur’an 25:64" },
+
+  { "text": "And Allah is Full of kindness to His slaves.", "ref": "Qur’an 42:19" },
+  { "text": "He answereth the prayer of the suppliant when he calleth unto Him.", "ref": "Qur’an 2:186" },
+
+  { "text": "Call upon Me, I will answer you.", "ref": "Qur’an 40:60" },
+  { "text": "And despair not of the mercy of Allah.", "ref": "Qur’an 39:53" },
+
+  { "text": "Lo! Allah forgiveth all sins.", "ref": "Qur’an 39:53" },
+  { "text": "He it is Who accepteth repentance from His slaves.", "ref": "Qur’an 42:25" },
+
+  { "text": "And Allah loveth those who turn unto Him.", "ref": "Qur’an 2:222" },
+  { "text": "Surely Allah loveth those who rely on Him.", "ref": "Qur’an 3:159" },
+
+  { "text": "And the end is for those who keep their duty.", "ref": "Qur’an 7:128" },
+  { "text": "And Allah is sufficient as a Helper.", "ref": "Qur’an 4:45" },
+
+  { "text": "He is the First and the Last.", "ref": "Qur’an 57:3" },
+  { "text": "And He is the Inward and the Outward.", "ref": "Qur’an 57:3" },
+
+  { "text": "And unto Allah is the journeying.", "ref": "Qur’an 3:97" },
+  { "text": "And Allah is swift at reckoning.", "ref": "Qur’an 3:199" },
+
+  { "text": "And We created not the heavens and the earth in vain.", "ref": "Qur’an 38:27" },
+  { "text": "This is a Reminder unto those who ward off evil.", "ref": "Qur’an 38:49" },
+
+  { "text": "And Allah is the Best of Protectors.", "ref": "Qur’an 12:64" },
+  { "text": "He is the Knowing, the Wise.", "ref": "Qur’an 12:83" },
+
+  { "text": "And thy Lord doeth what He will.", "ref": "Qur’an 11:107" },
+  { "text": "And Allah is Aware of what ye do.", "ref": "Qur’an 2:234" },
+  
+  { "text": "Establish worship, for worship preserveth from lewdness and iniquity.", "ref": "Qur’an 29:45" },
+  { "text": "And establish worship at the two ends of the day and in some watches of the night.", "ref": "Qur’an 11:114" },
+  { "text": "Guard strictly your prayers, and the middle prayer.", "ref": "Qur’an 2:238" },
+  { "text": "Successful indeed are the believers who are humble in their prayers.", "ref": "Qur’an 23:1–2" },
+
+  { "text": "Establish worship for My remembrance.", "ref": "Qur’an 20:14" },
+  { "text": "And bow down with those who bow.", "ref": "Qur’an 2:43" },
+  { "text": "Seek help through patience and prayer.", "ref": "Qur’an 2:45" },
+
+  { "text": "Call upon your Lord humbly and in secret.", "ref": "Qur’an 7:55" },
+  { "text": "And remember thy Lord within thyself humbly and with awe.", "ref": "Qur’an 7:205" },
+
+  { "text": "Establish worship from the decline of the sun until the darkness of night.", "ref": "Qur’an 17:78" },
+  { "text": "Lo! the recitation of the Qur’an at dawn is ever witnessed.", "ref": "Qur’an 17:78" },
+
+  { "text": "And in the night pray, an additional prayer for thee.", "ref": "Qur’an 17:79" },
+  { "text": "Those who forsake their beds to cry unto their Lord in fear and hope.", "ref": "Qur’an 32:16" },
+
+  { "text": "They were ever quick in rivalry for good works and cried unto Us in longing and in fear.", "ref": "Qur’an 21:90" },
+  { "text": "And your Lord saith: Call upon Me, I will answer you.", "ref": "Qur’an 40:60" },
+
+  { "text": "And establish worship and pay the poor-due.", "ref": "Qur’an 2:110" },
+  { "text": "And worship thy Lord until the inevitable cometh unto thee.", "ref": "Qur’an 15:99" },
+
+  { "text": "Give good tidings to the humble.", "ref": "Qur’an 22:34" },
+  { "text": "Those whose hearts fear when Allah is mentioned.", "ref": "Qur’an 22:35" },
+
+  { "text": "Successful indeed are the believers.", "ref": "Qur’an 23:1" },
+  { "text": "Who are attentive at their worship.", "ref": "Qur’an 23:2" },
+
+  { "text": "And remember Allah much, that ye may be successful.", "ref": "Qur’an 8:45" },
+  { "text": "Men whom neither merchandise nor sale beguile from remembrance of Allah.", "ref": "Qur’an 24:37" },
+
+  { "text": "So glorify Allah when ye enter the night and when ye enter the morning.", "ref": "Qur’an 30:17" },
+  { "text": "Unto Him be praise in the heavens and the earth.", "ref": "Qur’an 30:18" },
+
+  { "text": "And perform the prayer at the appointed hours.", "ref": "Qur’an 4:103" },
+  { "text": "Lo! prayer hath been enjoined upon the believers at stated times.", "ref": "Qur’an 4:103" },
+
+  { "text": "And remember the name of thy Lord at morn and evening.", "ref": "Qur’an 76:25" },
+  { "text": "And in the night, give glory unto Him.", "ref": "Qur’an 76:26" },
+
+  { "text": "Who rise at night beseeching their Lord.", "ref": "Qur’an 51:18" },
+  { "text": "And before the dawn they prayed for forgiveness.", "ref": "Qur’an 51:18" },
+
+  { "text": "Surely success is for the one who purifieth himself.", "ref": "Qur’an 87:14" },
+  { "text": "And remembereth the name of his Lord, so prayeth.", "ref": "Qur’an 87:15" },
+
+  { "text": "And glorify the praises of thy Lord before sunrise and before sunset.", "ref": "Qur’an 50:39" },
+  { "text": "And in the night-time glorify Him.", "ref": "Qur’an 50:40" },
+
+  { "text": "The mosques of Allah are only to be maintained by those who believe in Allah.", "ref": "Qur’an 9:18" },
+  { "text": "And establish worship and fear Allah.", "ref": "Qur’an 6:72" },
+
+  { "text": "Those who are constant at their prayer.", "ref": "Qur’an 70:23" },
+  { "text": "And who are watchful of their prayers.", "ref": "Qur’an 23:9" }
 
 ]
-

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Bible Quotes – Daily Verses & Christian Inspiration",
+  "name": "Qur’an Quotes – Daily Ayahs & Islamic Inspiration",
   "version": "1.0",
-  "description": "Daily Bible verses for inspiration and faith. Receive scripture notifications and save your favorite Bible quotes.",
+  "description": "Daily Qur’an ayahs for inspiration and faith. Receive Islamic reminders and save your favorite Qur’an quotes.",
   "action": {
     "default_popup": "popup.html"
   },

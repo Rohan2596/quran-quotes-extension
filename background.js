@@ -16,7 +16,7 @@ chrome.alarms.onAlarm.addListener(alarm => {
         chrome.notifications.create({
           type: "basic",
           iconUrl: chrome.runtime.getURL("icon/icon48.png"),
-          title: "Daily Bible Verse",
+          title: "Daily Ayahs & Islamic Inspiration",
           message: `${v.text}\n— ${v.ref}`
         });
       });
